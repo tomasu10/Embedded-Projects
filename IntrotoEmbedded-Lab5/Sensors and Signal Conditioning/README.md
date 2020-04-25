@@ -37,7 +37,7 @@ The code must be referenced in a main.c file which will be uploaded to the MSP43
  
 The Circuit used for this lab can be seen below 
 
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab5/Sensors%20and%20Signal%20Conditioning/All%20three%20circuits.jpg)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab5/Sensors%20and%20Signal%20Conditioning/All%20three%20circuits.jpg)
 
 ## Demonstration
 
@@ -45,14 +45,14 @@ The following section will highlight the voltage readings over UART taken from t
 
 Photoresistor 
 
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab5/Sensors%20and%20Signal%20Conditioning/Photoresistor%20GIF.gif)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab5/Sensors%20and%20Signal%20Conditioning/Photoresistor%20GIF.gif)
 
 Temperature Sensor
  
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab5/Sensors%20and%20Signal%20Conditioning/Temperature%20Sensor%20GIF.gif)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab5/Sensors%20and%20Signal%20Conditioning/Temperature%20Sensor%20GIF.gif)
 
 Phototransistor 
 
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab5/Sensors%20and%20Signal%20Conditioning/Phototransistor%20GIF.gif)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab5/Sensors%20and%20Signal%20Conditioning/Phototransistor%20GIF.gif)
  
  

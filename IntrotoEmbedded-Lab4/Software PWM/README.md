@@ -1,7 +1,7 @@
 # Software PWM
 Note:  The following explanation will include the SoftwarePWM functionality for all processors since the logic does not vary between the MSP430s.
 
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab4/Software%20PWM/PWM.gif)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab4/Software%20PWM/PWM.gif)
 
 ## Explanation
 The SoftwarePWM was implemented by using one timer that triggered two timer interrupts. This was done by declaring two CCRX registers (CCR0 and CCR1). CCR0 and CCR1 were both set to 1000 and 500 respectively

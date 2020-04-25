@@ -1,7 +1,7 @@
 # Simple Blink
 Note:  The following explanation will include the SimpleBlink functionality for all processors since the logic does not vary between the MSP430s.
 
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab2/Simple%20Blink/Simple%20Blink.gif)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab2/Simple%20Blink/Simple%20Blink.gif)
 
 ## Explanation
 As its title suggests, implementing SimpleBlink in code is quite simple. The most essential 

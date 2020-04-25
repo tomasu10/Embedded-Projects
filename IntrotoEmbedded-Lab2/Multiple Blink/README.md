@@ -1,7 +1,7 @@
 # Multiple Blink
 Note:  The following explanation will include the MultipleBlink functionality for all processors since the logic does not vary between the MSP430s.
 
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab2/Multiple%20Blink/Multiple%20Blink.gif)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab2/Multiple%20Blink/Multiple%20Blink.gif)
 
 ## Explanation
 For this section of the lab, conditional statements had to be used inside of an infinite loop. Just like SimpleBlink the Direction and 

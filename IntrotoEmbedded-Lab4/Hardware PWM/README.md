@@ -1,7 +1,7 @@
 # Hardware PWM
 Note:  The following explanation will include the HardwarePWM functionality for all processors since the logic does not vary between the MSP430s.
 
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab4/Hardware%20PWM/PWM.gif)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab4/Hardware%20PWM/PWM.gif)
 
 ## Explanation
 Although the HardwarePWM required the use of one timer and two CCRx, just like the SoftwarePWM, it did not require timer interrupts. Instead, the Timer was output to one of the available pins

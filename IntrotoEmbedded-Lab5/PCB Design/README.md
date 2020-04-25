@@ -10,9 +10,9 @@ This printed circuit board is to be used as a breakout for the MSP430FR2311 micr
  as its reset circuitry, using this board allows the user to place and program this processor directly onto a breadboard. This will allow for 
  a multitude of projects and research to be conducted, using this board for mostly testing purposes, and not on a final product. The PCB can be seen below 
  
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab5/PCB%20Design/Front.PNG)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab5/PCB%20Design/Front.PNG)
 
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab5/PCB%20Design/Back.PNG)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab5/PCB%20Design/Back.PNG)
 
 ## How it works
  When placed on a breadboard, the test, reset, power, and ground pins can be connected directly to the development board version of this processor. When

@@ -45,12 +45,12 @@ The following section will highlight the voltage readings over UART taken from t
 
 Photoresistor 
 
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab5/Visualizing%20Data/Photoresistor%20GIF.gif)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab5/Visualizing%20Data/Photoresistor%20GIF.gif)
 
 Temperature Sensor 
 
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab5/Visualizing%20Data/Temperature%20Sensor%20GIF.gif)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab5/Visualizing%20Data/Temperature%20Sensor%20GIF.gif)
 
 Phototransistor 
 
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab5/Visualizing%20Data/Phototransistor%20GIF.gif)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab5/Visualizing%20Data/Phototransistor%20GIF.gif)

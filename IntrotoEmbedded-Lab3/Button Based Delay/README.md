@@ -1,7 +1,7 @@
 # Button Based Delay
 Note:  The following explanation will include the ButtonBasedDelay functionality for all processors since the logic does not vary between the MSP430s.
 
-![alt text](https://github.com/tomasu10/Embedded-Systems-Projects-/blob/master/IntrotoEmbedded-Lab3/Button%20Based%20Delay/Button%20Based%20Delay.gif)
+![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab3/Button%20Based%20Delay/Button%20Based%20Delay.gif)
 
 ## Explanation
 This portion of the lab called for the use of both port and timer interrupts. Two timers were actually used in this implementation. One timer (lets call it TimerA) was used to trigger the timer interrupts while

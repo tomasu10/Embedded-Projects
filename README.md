@@ -16,4 +16,5 @@ and duty cycles. Additionally, a regulator was made out of the buck converter in
 
 ### 3) Milestone 2-Temperature Control Circuit
 For this project, the temperature of a five volt regulator is measured and input into a closed loop temperature control circuit. Using the temperature measurement, the system is able to control the speed of a fan which in turn controls the temperature of the five volt regulator. Through UART communication ports, the user is able to enter a desired temperature and the closed loop system adjusts and sustains the desired temperature.
+
 ![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Lab6/Open%20Loop%20Systems/OpenLoopCircuit.jpg) ![alt text](https://github.com/tomasu10/Embedded-Projects/blob/master/IntrotoEmbedded-Milestone%202/Data/temp58-40.gif)

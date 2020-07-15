@@ -1,4 +1,0 @@
-# Calculator
-The 1st lab served as a brief introduction of C programming. In order to create a calculator, conditional statements had to be used. These conditional statments were then used to maniuplate 3 parameters that were chosen in the main method. These 3 parameters
-included num1, num2, both of int data type, and a char operator. Based on the value of the operator the conditional statements would determine which artimetic operation was needed and then num1 and num2 would be computed accordingly. The resulting value would 
-then be able to be printed to the terminal window in order to test if the code worked. For example num1 =1 , num2 =2, and operator = "+" would yield a value of 3.

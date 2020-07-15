@@ -1,7 +1,7 @@
-# Embedded Projects
+# Programming Projects
 
 ## Purpose of repository 
-Change
+Hello
 
 ## Notable Projects
 

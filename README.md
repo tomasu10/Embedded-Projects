@@ -1,7 +1,7 @@
 # Embedded Projects
 
 ## Purpose of repository 
-This repository houses the embedded projects I have worked on while in college
+Change
 
 ## Notable Projects
 
